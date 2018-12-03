@@ -1,0 +1,9 @@
+# This is the input file for the faculty-html.py program. Format for each line is: name, extension, email. This is detailed as First Last | (XXX) XXX-XXXX (all numbers) | first.last
+Ali Rahimi | (408) 276-2986 | arz_rahimi@yahoo.com
+Jalel Rejeb | (408) 924-4007 | jalel.rejeb@sjsu.edu
+Mohamed Soliman | (408) 924-3856 | mohamed.soliman@sjsu.edu
+Abdie Tabrizie | n/a | abdie.tabrizi@evc.edu
+Tabitha Hart | (408) 924-5510 | tabitha.hart@sjsu.edu
+Saeid Bashash | (408) 924-8355 | saeid.bashash@sjsu.edu
+Vimal Viswanathan | (408) 924-3841 | vimal.viswanathan@sjsu.edu
+Fatemeh Davoudi | (408) 924-3195 | fatemeh.davoudi@sjsu.edu
